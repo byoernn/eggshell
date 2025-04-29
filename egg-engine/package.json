@@ -1,0 +1,14 @@
+{
+    "name": "egg-engine",
+    "version": "1.0.0",
+    "description": "A powerful engine for building applications.",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "keywords": [],
+    "author": "Björn Nast",
+    "license": "MIT",
+    "dependencies": {},
+    "devDependencies": {}
+}

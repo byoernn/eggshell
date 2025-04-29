@@ -1,0 +1,14 @@
+{
+    "name": "egg-shell",
+    "version": "1.0.0",
+    "description": "A shell for the Egg engine.",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "keywords": [],
+    "author": "Björn Nast",
+    "license": "MIT",
+    "dependencies": {},
+    "devDependencies": {}
+}
