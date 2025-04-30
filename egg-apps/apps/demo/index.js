@@ -1,4 +1,8 @@
 export class DemoEgg {
+    get name() {
+        return "demoEgg";
+    }
+
     /**
      * init egg e.g. preloading stuff for execution
      */

@@ -1,3 +1,3 @@
 import { DemoEgg } from "./demo";
 
-export const DemoEgg = new DemoEgg();
+export const demoEgg = new DemoEgg();
